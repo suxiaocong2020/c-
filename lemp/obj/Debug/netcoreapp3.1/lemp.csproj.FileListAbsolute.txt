@@ -1,0 +1,14 @@
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\bin\Debug\netcoreapp3.1\lemp.exe
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\bin\Debug\netcoreapp3.1\lemp.deps.json
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\bin\Debug\netcoreapp3.1\lemp.runtimeconfig.json
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\bin\Debug\netcoreapp3.1\lemp.runtimeconfig.dev.json
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\bin\Debug\netcoreapp3.1\lemp.dll
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\bin\Debug\netcoreapp3.1\lemp.pdb
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\obj\Debug\netcoreapp3.1\lemp.csproj.AssemblyReference.cache
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\obj\Debug\netcoreapp3.1\lemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\obj\Debug\netcoreapp3.1\lemp.AssemblyInfoInputs.cache
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\obj\Debug\netcoreapp3.1\lemp.AssemblyInfo.cs
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\obj\Debug\netcoreapp3.1\lemp.csproj.CoreCompileInputs.cache
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\obj\Debug\netcoreapp3.1\lemp.dll
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\obj\Debug\netcoreapp3.1\lemp.pdb
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\lemp\obj\Debug\netcoreapp3.1\lemp.genruntimeconfig.cache
