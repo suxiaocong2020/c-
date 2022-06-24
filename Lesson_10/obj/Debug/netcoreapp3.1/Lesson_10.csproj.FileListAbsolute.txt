@@ -1,0 +1,14 @@
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\bin\Debug\netcoreapp3.1\Lesson_10.exe
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\bin\Debug\netcoreapp3.1\Lesson_10.deps.json
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\bin\Debug\netcoreapp3.1\Lesson_10.runtimeconfig.json
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\bin\Debug\netcoreapp3.1\Lesson_10.runtimeconfig.dev.json
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\bin\Debug\netcoreapp3.1\Lesson_10.dll
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\bin\Debug\netcoreapp3.1\Lesson_10.pdb
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\obj\Debug\netcoreapp3.1\Lesson_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\obj\Debug\netcoreapp3.1\Lesson_10.AssemblyInfoInputs.cache
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\obj\Debug\netcoreapp3.1\Lesson_10.AssemblyInfo.cs
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\obj\Debug\netcoreapp3.1\Lesson_10.csproj.CoreCompileInputs.cache
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\obj\Debug\netcoreapp3.1\Lesson_10.dll
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\obj\Debug\netcoreapp3.1\Lesson_10.pdb
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\obj\Debug\netcoreapp3.1\Lesson_10.genruntimeconfig.cache
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\Lesson_10\obj\Debug\netcoreapp3.1\Lesson_10.csproj.AssemblyReference.cache
