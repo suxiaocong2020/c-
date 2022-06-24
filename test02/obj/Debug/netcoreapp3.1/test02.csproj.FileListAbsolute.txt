@@ -1,0 +1,14 @@
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\bin\Debug\netcoreapp3.1\test02.exe
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\bin\Debug\netcoreapp3.1\test02.deps.json
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\bin\Debug\netcoreapp3.1\test02.runtimeconfig.json
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\bin\Debug\netcoreapp3.1\test02.runtimeconfig.dev.json
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\bin\Debug\netcoreapp3.1\test02.dll
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\bin\Debug\netcoreapp3.1\test02.pdb
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\obj\Debug\netcoreapp3.1\test02.csproj.AssemblyReference.cache
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\obj\Debug\netcoreapp3.1\test02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\obj\Debug\netcoreapp3.1\test02.AssemblyInfoInputs.cache
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\obj\Debug\netcoreapp3.1\test02.AssemblyInfo.cs
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\obj\Debug\netcoreapp3.1\test02.csproj.CoreCompileInputs.cache
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\obj\Debug\netcoreapp3.1\test02.dll
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\obj\Debug\netcoreapp3.1\test02.pdb
+C:\Users\suxia\Desktop\c#入门\Csharp唐老狮\test02\obj\Debug\netcoreapp3.1\test02.genruntimeconfig.cache
